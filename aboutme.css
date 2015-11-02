@@ -1,12 +1,12 @@
 /*
-    Document   : index.css
-    Created on : 2015-09-01 08:08 PM
+    Document   : aboutme.css
+    Created on : 2015-09-09 09:45 PM
     Author     : YourName650
     Description:
     Purpose of the stylesheet follows.
     To change this template use Tools | Templates.
 */
 
-body {
-    background-color:orange ;
+root {
+    display: block;
 }
